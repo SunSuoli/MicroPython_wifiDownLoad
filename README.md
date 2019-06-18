@@ -1,3 +1,3 @@
 # MicroPython_wifiDownLoad
-通过无线wifi模块更新MicroPython的程序；回传信息到网络
+通过无线wifi模块更新MicroPython的程序；回传信息到网络;
 需要在下载MicroPython的多线程固件，在main.py中新建单独的线程执行download函数
